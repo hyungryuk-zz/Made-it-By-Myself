@@ -1,1 +1,1 @@
-All Script File Location : Asset -> Script
+All Script File Location : Assets -> Scripts
